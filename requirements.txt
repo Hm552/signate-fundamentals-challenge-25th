@@ -1,0 +1,4 @@
+scikit-learn==0.20.3
+numpy==1.19.5
+lightgbm
+optuna
